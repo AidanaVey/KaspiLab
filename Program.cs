@@ -19,7 +19,7 @@ namespace hw3
         }
         static void Main(string[] args)
         {
-            int[] nums = new int[4];
+            int[] nums = new int[11];
             Console.WriteLine("Введите десять чисел");
             for (int i = 1; i < nums.Length; i++)
             {

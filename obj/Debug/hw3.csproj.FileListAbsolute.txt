@@ -1,0 +1,7 @@
+D:\KaspiLab\hw3\bin\Debug\hw3.exe.config
+D:\KaspiLab\hw3\bin\Debug\hw3.exe
+D:\KaspiLab\hw3\bin\Debug\hw3.pdb
+D:\KaspiLab\hw3\obj\Debug\hw3.csprojAssemblyReference.cache
+D:\KaspiLab\hw3\obj\Debug\hw3.csproj.CoreCompileInputs.cache
+D:\KaspiLab\hw3\obj\Debug\hw3.exe
+D:\KaspiLab\hw3\obj\Debug\hw3.pdb
