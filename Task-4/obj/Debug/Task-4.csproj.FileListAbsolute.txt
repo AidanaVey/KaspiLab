@@ -1,0 +1,6 @@
+D:\KaspiLab\HW3\Task-4\bin\Debug\Task-4.exe.config
+D:\KaspiLab\HW3\Task-4\bin\Debug\Task-4.exe
+D:\KaspiLab\HW3\Task-4\bin\Debug\Task-4.pdb
+D:\KaspiLab\HW3\Task-4\obj\Debug\Task-4.csproj.CoreCompileInputs.cache
+D:\KaspiLab\HW3\Task-4\obj\Debug\Task-4.exe
+D:\KaspiLab\HW3\Task-4\obj\Debug\Task-4.pdb
